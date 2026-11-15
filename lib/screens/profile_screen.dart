@@ -58,7 +58,7 @@ class ProfileScreen extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 2),
-              Text("BSCS · Semester 5",
+              Text("BSIT · SEMESTER 6",
                   style: TextStyle(fontSize: 12, color: AppColors.inkSoft)),
             ],
           ),
